@@ -35,7 +35,7 @@ I am open to collaborating on projects related to:
 
 ## Connect with Me
 
-Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/eleojoadegbe]) for professional networking.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/eleojoadegbe) for professional networking.
 
 ## Current Learning Path
 
