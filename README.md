@@ -18,7 +18,9 @@ I'm a passionate software developer with a keen interest in Machine Learning, AI
 A comprehensive banking application demonstrating the implementation of dependency injection for improved modularity and testability.
 
 ### Machine Learning Model for Predictive Analytics
-Built and deployed machine learning models for predictive analytics using Python and integrated them with ASP.NET applications.
+Built and deployed machine learning models for predictive analytics using Python in Jupyter Notebook.
+
+### Built FRACID (Face Recognition Attendance System With Insights Dashboard)
 
 ## Collaboration
 
