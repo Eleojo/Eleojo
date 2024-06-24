@@ -40,7 +40,7 @@ Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/eleojoad
 ## Current Learning Path
 
 - **Data Analysis**: Completing a Data Analysis program with Udacity to strengthen my analytical skills.
-- **
+- **Enhacing my skills in ASP.NET development.
 
 ---
 
