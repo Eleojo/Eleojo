@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate software developer with a keen interest in Machine Learning, AI, and ASP.NET development with C#. I am currently enhancing my skills in Data Analysis through Udacity.
+I'm a passionate software developer with a keen interest in Machine Learning, AI, and ASP.NET development with C#.
 
 ## Skills and Interests
 
