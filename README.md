@@ -9,13 +9,13 @@ I'm a passionate software developer with a keen interest in Machine Learning, AI
 - **Machine Learning & AI**: Exploring and building intelligent systems.
 - **C# Development**: Proficient in developing robust applications using C#.
 - **ASP.NET**: Experienced in building web applications using ASP.NET and ASP.NET Core.
-- **Data Analysis**: Currently honing my skills in data analysis to derive meaningful insights from data.
+- **Data Science**: Proficient in using models like AR ARMA for time series data and Logistic Regression, Xg-Boost, Random Forest,etc for predictions and forcasting.
 - **Software Design Principles**: Strong understanding of SOLID principles and design patterns.
 
 ## Projects
 
-### Banking Application with Dependency Injection
-A comprehensive banking application demonstrating the implementation of dependency injection for improved modularity and testability.
+### CustomerManagementAPI with AutoMapper, Serilog, and Seq
+This project is a robust ASP.NET Core API designed for managing customer records. It features a well-structured implementation of dependency injection for improved modularity and testability. Leveraging the power of AutoMapper, the API ensures seamless mapping between Data Transfer Objects (DTOs) and models, facilitating clean and maintainable code. Additionally, it incorporates Serilog and Seq for comprehensive and effective logging.
 
 ### Machine Learning Model for Predictive Analytics
 Built and deployed machine learning models for predictive analytics using Python in Jupyter Notebook.
