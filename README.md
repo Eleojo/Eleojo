@@ -1,53 +1,46 @@
-# 👋 Hi, I’m @Eleojo
+## 👋 Hi, I’m Eleojo!
 
-## About Me
+### About Me
 
-I'm a passionate software developer with a keen interest in Machine Learning, AI, and ASP.NET development with C#.
+I am a dedicated software developer passionate about Machine Learning, AI, and ASP.NET development using C#. With a strong foundation in data science, I specialize in building intelligent systems and predictive models.
 
-## Skills and Interests
+### Skills and Interests
 
-- **Machine Learning & AI**: Exploring and building intelligent systems.
-- **C# Development**: Proficient in developing robust applications using C#.
-- **ASP.NET**: Experienced in building web applications using ASP.NET and ASP.NET Core.
-- **Data Science**: Proficient in using models like AR ARMA for time series data and Logistic Regression, Xg-Boost, Random Forest,etc for predictions and forcasting.
-- **Software Design Principles**: Strong understanding of SOLID principles and design patterns.
+- **Machine Learning & AI**: Developing intelligent systems and predictive models.
+- **C# Development**: Proficient in building robust applications with C#.
+- **ASP.NET**: Experienced in creating scalable web applications with ASP.NET and ASP.NET Core.
+- **Data Science**: Skilled in using models like AR, ARMA for time series data, and algorithms such as Logistic Regression, XGBoost, and Random Forest for predictive analytics.
+- **Software Design**: Solid understanding of SOLID principles and design patterns.
 
-## Projects
+### Projects
 
-### CustomerManagementAPI with AutoMapper, Serilog, and Seq
-This project is a robust ASP.NET Core API designed for managing customer records. It features a well-structured implementation of dependency injection for improved modularity and testability. Leveraging the power of AutoMapper, the API ensures seamless mapping between Data Transfer Objects (DTOs) and models, facilitating clean and maintainable code. Additionally, it incorporates Serilog and Seq for comprehensive and effective logging.
+#### 🛠️ CustomerManagementAPI with AutoMapper, Serilog, and Seq
 
-### Machine Learning Model for Predictive Analytics
-Built and deployed machine learning models for predictive analytics using Python in Jupyter Notebook.
+Designed a robust ASP.NET Core API for efficient customer record management. Implemented dependency injection for modularity and testability. Leveraged AutoMapper for seamless DTO-to-model mapping and integrated Serilog with Seq for comprehensive logging.
 
-### Built FRACID (Face Recognition Attendance System With Insights Dashboard)
+#### 🤖 Machine Learning Model for Predictive Analytics
 
-## Collaboration
+Developed and deployed machine learning models using Python in Jupyter Notebook for predictive analytics.
+
+#### 📊 FRACID (Face Recognition Attendance System With Insights Dashboard)
+
+### Collaboration
 
 I am open to collaborating on projects related to:
-- **Data Science/Analysis**: Leveraging data to build predictive models and derive insights.
-- **C# Development**: Developing high-quality applications using C# and ASP.NET.
 
-## How to Reach Me
+- **Data Science/Analysis**: Leveraging data for predictive modeling and deriving actionable insights.
+- **C# Development**: Building high-quality applications using C# and ASP.NET.
+
+### How to Reach Me
 
 - **Phone**: +2357067166481
 - **Email**: adegbeeleojo@gmail.com
 
-## Connect with Me
+### Connect with Me
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/eleojoadegbe) for professional networking.
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/eleojoadegbe) for professional networking.
 
-## Current Learning Path
+### Current Learning Path
 
-- **Data Analysis**: Completing a Data Analysis program with Udacity to strengthen my analytical skills.
-- **Enhacing my skills in ASP.NET development.
-
----
-
-Thank you for visiting my profile! I am always excited to connect with fellow developers and explore new opportunities.
-
-
-<!---
-Eleojo/Eleojo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **Data Analysis**: Completing a Data Analysis program with Udacity to strengthen analytical skills.
+- **Enhancing ASP.NET Development Skills**
