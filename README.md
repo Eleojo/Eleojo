@@ -2,7 +2,7 @@
 
 ### About Me
 
-I am a dedicated software developer passionate about Machine Learning, AI, and ASP.NET development using C#. With a strong foundation in data science, I specialize in building intelligent systems and predictive models.
+I am a dedicated software developer passionate about ASP.NET development using C# ,Machine Learning/AI. With a strong foundation in data science, I specialize in building intelligent systems and predictive models.
 
 ### Skills and Interests
 
