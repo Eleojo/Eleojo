@@ -28,8 +28,9 @@ Developed and deployed machine learning models using Python in Jupyter Notebook 
 
 I am open to collaborating on projects related to:
 
+- **C# Development**: Building high-quality applications using C# and ASP.NET(.NET Core)
 - **Data Science/Analysis**: Leveraging data for predictive modeling and deriving actionable insights.
-- **C# Development**: Building high-quality applications using C# and ASP.NET.
+
 
 ### How to Reach Me
 
