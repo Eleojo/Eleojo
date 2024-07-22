@@ -2,7 +2,7 @@
 
 ### About Me
 
-I am a dedicated software developer passionate about ASP.NET development using C# ,Machine Learning/AI. With a strong foundation in data science, I specialize in building intelligent systems and predictive models.
+I am a dedicated software developer with a strong focus on .NET Core development using C#. With extensive experience in building robust, scalable web applications, I specialize in leveraging ASP.NET Core to create efficient and high-performing solutions. Additionally, I integrate advanced Machine Learning and AI techniques to develop intelligent systems and predictive models. My data science expertise includes time series analysis with AR and ARMA models, as well as predictive analytics using Logistic Regression, XGBoost, and Random Forest. My passion lies in utilizing cutting-edge technologies to drive innovation and efficiency in software applications.
 
 ### Skills and Interests
 
