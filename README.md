@@ -6,23 +6,29 @@ I am a dedicated software developer with a strong focus on .NET Core development
 
 ### Skills and Interests
 
-- **Machine Learning & AI**: Developing intelligent systems and predictive models.
-- **C# Development**: Proficient in building robust applications with C#.
-- **ASP.NET**: Experienced in creating scalable web applications with ASP.NET and ASP.NET Core.
-- **Data Science**: Skilled in using models like AR, ARMA for time series data, and algorithms such as Logistic Regression, XGBoost, and Random Forest for predictive analytics.
-- **Software Design**: Solid understanding of SOLID principles and design patterns.
+- ASP.NET Development: Experienced in creating scalable and high-performing web applications using ASP.NET and ASP.NET Core.
+- C# Development: Proficient in building robust and maintainable applications with C#.
+- Software Design: Strong understanding of SOLID principles and design patterns, ensuring clean and efficient code architecture.
+- Machine Learning & AI: Capable of developing intelligent systems and predictive models.
+- Data Science: Proficient in using models like AR, ARMA for time series data, and algorithms such as Logistic Regression, XGBoost, and Random Forest for predictive analytics.
 
 ### Projects
 
-#### 🛠️ CustomerManagementAPI with AutoMapper, Serilog, and Seq
+🛠️ CustomerManagementAPI with AutoMapper, Serilog, and Seq
 
 Designed a robust ASP.NET Core API for efficient customer record management. Implemented dependency injection for modularity and testability. Leveraged AutoMapper for seamless DTO-to-model mapping and integrated Serilog with Seq for comprehensive logging.
 
-#### 🤖 Machine Learning Model for Predictive Analytics
+🛠️ StudentManagementAPI with Entity Framework Identity
 
-Developed and deployed machine learning models using Python in Jupyter Notebook for predictive analytics.
+Developed a secure and scalable ASP.NET Core API for student management, utilizing Entity Framework Identity for authentication and authorization.
 
-#### 📊 FRACID (Face Recognition Attendance System With Insights Dashboard)
+🤖 Machine Learning Model for Predictive Analytics
+
+Developed and deployed advanced machine learning models using Python in Jupyter Notebook for predictive analytics, enhancing decision-making through data-driven insights.
+
+📊 FRACID (Face Recognition Attendance System with Insights Dashboard)
+
+Engineered a face recognition attendance system integrated with a comprehensive insights dashboard, providing real-time analytics and reporting.
 
 ### Collaboration
 
