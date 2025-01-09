@@ -8,6 +8,7 @@ I am a dedicated software developer with a strong focus on .NET Core development
 
 - ASP.NET Development: Experienced in creating scalable and high-performing web applications using ASP.NET and ASP.NET Core.
 - C# Development: Proficient in building robust and maintainable applications with C#.
+- REACT.js
 - Software Design: Strong understanding of SOLID principles and design patterns, ensuring clean and efficient code architecture.
 - Machine Learning & AI: Capable of developing intelligent systems and predictive models.
 - Data Science: Proficient in using models like AR, ARMA for time series data, and algorithms such as Logistic Regression, XGBoost, and Random Forest for predictive analytics.
