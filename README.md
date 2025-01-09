@@ -12,6 +12,7 @@ I am a dedicated software developer with a strong focus on .NET Core development
 - Software Design: Strong understanding of SOLID principles and design patterns, ensuring clean and efficient code architecture.
 - Machine Learning & AI: Capable of developing intelligent systems and predictive models.
 - Data Science: Proficient in using models like AR, ARMA for time series data, and algorithms such as Logistic Regression, XGBoost, and Random Forest for predictive analytics.
+- Data Analysis
 
 ### Projects
 
@@ -49,6 +50,4 @@ I am open to collaborating on projects related to:
 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/eleojoadegbe) for professional networking.
 
 ### Current Learning Path
-
-- **Data Analysis**: Completing a Data Analysis program with Udacity to strengthen analytical skills.
 - **Enhancing ASP.NET Development Skills**
